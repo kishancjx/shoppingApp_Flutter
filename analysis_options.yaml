@@ -1,0 +1,115 @@
+---
+  version: 1.0
+  image: 
+    name: analysis_options.yaml
+    permissions: 644
+    format: PS
+    formatDescription: PostScript
+    mimeType: application/postscript
+    class: DirectClass
+    geometry: 
+      width: 954
+      height: 1048
+      x: 0
+      y: 0
+    
+    units: Undefined
+    type: TrueColor
+    baseType: Undefined
+    endianness: Undefined
+    colorspace: sRGB
+    depth: 8
+    baseDepth: 16
+    channelDepth: 
+      red: 8
+      green: 8
+      blue: 1
+    
+    pixels: 999792
+    imageStatistics: 
+      overall: 
+        min: 0
+        max: 65535
+        mean: 4784.64
+        median: 4626
+        standardDeviation: 2364.03
+        kurtosis: 336.497
+        skewness: 17.6617
+        entropy: 0.017567
+      
+    
+    channelStatistics: 
+      red: 
+        min: 0
+        max: 65535
+        mean: 3763.91
+        median: 3598
+        standardDeviation: 2515.92
+        kurtosis: 322.682
+        skewness: 17.345
+        entropy: 0.0174428
+       
+      green: 
+        min: 0
+        max: 51143
+        mean: 4237.65
+        median: 4112
+        standardDeviation: 1907.38
+        kurtosis: 399.665
+        skewness: 19.1522
+        entropy: 0.0177211
+       
+      blue: 
+        min: 0
+        max: 65535
+        mean: 6352.37
+        median: 6168
+        standardDeviation: 2668.8
+        kurtosis: 287.145
+        skewness: 16.4881
+        entropy: 0.0175371
+      
+    
+    renderingIntent: Perceptual
+    gamma: 0.454545
+    chromaticity: 
+      redPrimary: 
+        x: 0.64
+        y: 0.33
+      
+      greenPrimary: 
+        x: 0.3
+        y: 0.6
+      
+      bluePrimary: 
+        x: 0.15
+        y: 0.06
+      
+      whitePrimary: 
+        x: 0.3127
+        y: 0.329
+      
+    
+    matteColor: '#BDBDBDBDBDBD'
+    backgroundColor: '#FFFFFFFFFFFF'
+    borderColor: '#DFDFDFDFDFDF'
+    transparentColor: '#000000000000'
+    interlace: None
+    intensity: Undefined
+    compose: Over
+    dispose: Undefined
+    iterations: 0
+    compression: Undefined
+    quality: 85
+    orientation: Undefined
+    properties: 
+      signature: 43ca970cb136ffcf0d791a0b35f37e0bbbd54562e76fa539d22e2ba84c9121e6
+    
+    tainted: true
+    filesize: 0B
+    numberPixels: 999792
+    pixelsPerSecond: 28.4682MB
+    userTime: 0.040u
+    elapsedTime: 0:01.035
+    version: "ImageMagick 7.1.1-43 Q16-HDRI x86_64 22550 https://imagemagick.org"
+...
